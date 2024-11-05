@@ -51,6 +51,27 @@ Certifique-se de que o [Node.js](https://nodejs.org/) e o gerenciador de pacotes
     node funcoes/fibonacci.js
     ```
 
+## Package.json
+O modelo de como deve ficar seu package.json
+
+```JSON
+{
+  "name": "entregaemjs01-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
+
+```
 ## Como Executar os Testes
 
 Os testes foram escritos utilizando o framework [Jest](https://jestjs.io/), que facilita a verificação do funcionamento de cada função.
