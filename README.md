@@ -1,4 +1,4 @@
-# Opetações test
+# Operações test
 
 Este repositório contém uma coleção de algoritmos fundamentais implementados em JavaScript. Cada algoritmo realiza uma tarefa específica, como calcular o MDC, verificar se um número é primo, ordenar um vetor, trocar valores de variáveis, entre outros. Além disso, foram implementados testes automatizados para garantir o correto funcionamento de cada função.
 
