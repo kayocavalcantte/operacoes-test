@@ -18,7 +18,7 @@ Cada função está em seu próprio arquivo na pasta `funcoes`, e os testes est�
 
 ## Estrutura do Repositório
 
-- `funcoes/` - Contém os arquivos de código para cada função.
+- `functions/` - Contém os arquivos de código para cada função.
 - `tests/` - Contém os arquivos de teste para cada função.
 - `README.md` - Instruções de uso e informações sobre o projeto.
 - `package.json` - Configuração do projeto e dependências.
@@ -48,7 +48,7 @@ Certifique-se de que o [Node.js](https://nodejs.org/) e o gerenciador de pacotes
 
 4. Para executar um código específico, você pode usar o comando `node` seguido do caminho para o arquivo. Por exemplo:
     ```bash
-    node funcoes/fibonacci.js
+    node functions/fibonacci.js
     ```
 
 ## Package.json
