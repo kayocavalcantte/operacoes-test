@@ -116,6 +116,12 @@ test('Os 2 primeiros números da sequência de Fibonacci', () => {
 
 ## Exemplo de Saída dos Testes
 
+### Comando para rodar os testes
+
+```npm
+npm test
+```
+
 Após rodar os testes, você verá uma saída semelhante a esta:
 
 ```
